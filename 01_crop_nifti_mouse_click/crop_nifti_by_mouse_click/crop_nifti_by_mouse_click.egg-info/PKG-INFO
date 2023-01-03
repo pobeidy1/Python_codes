@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: crop-nifti-by-mouse-click
+Version: 0.0.3
+Summary: open nifti and crop it
+Home-page: UNKNOWN
+Author: Peyman Obeidy
+Author-email: <peyman.obeidy@email.com>
+License: UNKNOWN
+Keywords: python,nifti,multiple_file,crop,crop_image,MRI
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+
+UNKNOWN
+
