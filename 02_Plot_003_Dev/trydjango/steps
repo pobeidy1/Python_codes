@@ -1,0 +1,46 @@
+1st time------------------------
+sudo add-apt-repository ppa:deadsnakes/ppa 
+sudo apt update 
+sudo apt install python3.6
+
+pip install virtualenv
+
+python3 -m venv <name>    # create an environment
+source venv_003/bin/activate # activate the environment
+
+#pip3 install --upgrade pip
+
+#pip install -r requirements.txt # install all the requirements (libraries)
+
+virtualenv --version
+ python3 -m venv trydjango
+ 1527  source trydjango/
+ 1528  source trydjango/bin/activate
+pip3 install --upgrade pip
+pip3 install packaging==16.8
+pip install django==2.0.7
+pip install pytz==2018.5
+django-admin
+ 1536  ls
+ 1537  cd trydjango/
+ 1538  ls
+-----------------------
+mkdir scr
+django-admin startproject mysite
+cd mysite
+python manage.py runserver
+ctrl+c
+python manage.py migrate
+python manage.py createsuperuser
+--> stiladmin/scape email/2x stiladmin
+cd testdjango
+
+python manage.py startapp app01
+--------------/Dev/trydjango source trydjango/bin/activate
+
+(trydjango) (base) stiladmin@stiladmin-VirtualBox:~/development/testP1repo/Dev/trydjango/trydjango/trydjano$ ls
+db.sqlite3  manage.py  trydjano
+
+
+
+
