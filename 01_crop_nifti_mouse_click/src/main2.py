@@ -26,7 +26,7 @@ import os
 from matplotlib.pyplot import savefig
 import pickle
 # getting the name of the directory
-# where the this file is present.
+# where  this file is present.
 current = os.path.dirname(os.path.realpath(__file__))
 
 # Getting the parent directory name
